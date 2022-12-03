@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MailSlot.cpp">
+    <ClCompile Include="MailSlot.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
